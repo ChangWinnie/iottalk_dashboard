@@ -1,6 +1,7 @@
 # iottalk_dashboard
 ### Using the data that crawl on the weather website, show it on the dashboard.
-First, follow the instruction: [https://hackmd.io/5LqVk4MBSCinRXQderD_Jw]
+教學： [https://hackmd.io/5LqVk4MBSCinRXQderD_Jw]
+
 安裝 Mysql : [https://andy6804tw.github.io/2019/01/29/ubuntu-mysql-setting/]
 
 若mysql下載失敗, 解除安裝mysql [https://noob.tw/remove-mysql-completely/] 並再重新安裝一次
